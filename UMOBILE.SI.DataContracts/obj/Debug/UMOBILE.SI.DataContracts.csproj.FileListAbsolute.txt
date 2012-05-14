@@ -1,0 +1,5 @@
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.DataContracts\bin\Debug\UMOBILE.SI.DataContracts.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.DataContracts\bin\Debug\UMOBILE.SI.DataContracts.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.DataContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.DataContracts\obj\Debug\UMOBILE.SI.DataContracts.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.DataContracts\obj\Debug\UMOBILE.SI.DataContracts.pdb

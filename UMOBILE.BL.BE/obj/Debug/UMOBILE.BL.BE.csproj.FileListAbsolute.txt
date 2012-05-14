@@ -1,0 +1,5 @@
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.BL.BE\bin\Debug\UMOBILE.BL.BE.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.BL.BE\bin\Debug\UMOBILE.BL.BE.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.BL.BE\obj\Debug\UMOBILE.BL.BE.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.BL.BE\obj\Debug\UMOBILE.BL.BE.pdb

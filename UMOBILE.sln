@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMOBILE.SI", "RESTfullWCF\UMOBILE.SI.csproj", "{2994D14E-978F-4D53-B07E-35C75446F313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMOBILE.DL.DALC", "UMOBILE.DALC\UMOBILE.DL.DALC.csproj", "{39FB9B2D-93FA-4FFF-B022-11CC0931DDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMOBILE.BL.BE", "UMOBILE.BL.BE\UMOBILE.BL.BE.csproj", "{361C1324-BF54-4BAD-A82F-1D4758A35D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMOBILE.BL.BC", "UMOBILE.BL.BC\UMOBILE.BL.BC.csproj", "{48724485-7BE7-4DD4-B772-6F60ECEB04AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMOBILE.SI.DataContracts", "UMOBILE.SI.DataContracts\UMOBILE.SI.DataContracts.csproj", "{A303AF48-0D15-402E-9F01-4601164C1A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMOBILE.SI.ServiceContracts", "UMOBILE.SI.ServiceContracts\UMOBILE.SI.ServiceContracts.csproj", "{FB290194-1454-41F1-B84E-6AF7E8F5B62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2994D14E-978F-4D53-B07E-35C75446F313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2994D14E-978F-4D53-B07E-35C75446F313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2994D14E-978F-4D53-B07E-35C75446F313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2994D14E-978F-4D53-B07E-35C75446F313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FB9B2D-93FA-4FFF-B022-11CC0931DDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FB9B2D-93FA-4FFF-B022-11CC0931DDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FB9B2D-93FA-4FFF-B022-11CC0931DDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FB9B2D-93FA-4FFF-B022-11CC0931DDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361C1324-BF54-4BAD-A82F-1D4758A35D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361C1324-BF54-4BAD-A82F-1D4758A35D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361C1324-BF54-4BAD-A82F-1D4758A35D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361C1324-BF54-4BAD-A82F-1D4758A35D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48724485-7BE7-4DD4-B772-6F60ECEB04AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48724485-7BE7-4DD4-B772-6F60ECEB04AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48724485-7BE7-4DD4-B772-6F60ECEB04AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48724485-7BE7-4DD4-B772-6F60ECEB04AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A303AF48-0D15-402E-9F01-4601164C1A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A303AF48-0D15-402E-9F01-4601164C1A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A303AF48-0D15-402E-9F01-4601164C1A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A303AF48-0D15-402E-9F01-4601164C1A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB290194-1454-41F1-B84E-6AF7E8F5B62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB290194-1454-41F1-B84E-6AF7E8F5B62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB290194-1454-41F1-B84E-6AF7E8F5B62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB290194-1454-41F1-B84E-6AF7E8F5B62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Tips\documents\visual studio 2010\Projects\Rhomobile\RESTfullWCF\bin\RESTfullWCF.dll
+C:\Users\Tips\documents\visual studio 2010\Projects\Rhomobile\RESTfullWCF\bin\RESTfullWCF.pdb
+C:\Users\Tips\documents\visual studio 2010\Projects\Rhomobile\RESTfullWCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tips\documents\visual studio 2010\Projects\Rhomobile\RESTfullWCF\obj\Debug\RESTfullWCF.dll
+C:\Users\Tips\documents\visual studio 2010\Projects\Rhomobile\RESTfullWCF\obj\Debug\RESTfullWCF.pdb

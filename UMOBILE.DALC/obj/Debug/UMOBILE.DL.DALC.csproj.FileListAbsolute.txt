@@ -1,0 +1,8 @@
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\bin\Debug\UMOBILE.DALC.dll.config
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\bin\Debug\UMOBILE.DALC.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\bin\Debug\UMOBILE.DALC.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\bin\Debug\UMOBILE.BL.BE.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\bin\Debug\UMOBILE.BL.BE.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\obj\Debug\UMOBILE.DALC.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.DALC\obj\Debug\UMOBILE.DALC.pdb

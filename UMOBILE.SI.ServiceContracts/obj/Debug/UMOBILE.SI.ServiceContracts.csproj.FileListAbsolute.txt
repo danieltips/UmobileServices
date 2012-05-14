@@ -1,0 +1,13 @@
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.SI.ServiceContracts.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.SI.ServiceContracts.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.BL.BC.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.BL.BE.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.SI.DataContracts.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.DALC.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.BL.BC.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.BL.BE.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.SI.DataContracts.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\bin\Debug\UMOBILE.DALC.pdb
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\obj\Debug\UMOBILE.SI.ServiceContracts.dll
+C:\Users\Tips\Documents\Visual Studio 2010\Projects\Rhomobile\UMOBILE.SI.ServiceContracts\obj\Debug\UMOBILE.SI.ServiceContracts.pdb
